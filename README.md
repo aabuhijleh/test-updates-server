@@ -2,11 +2,11 @@
 
 Clone this repository
 
-Put files in `update_files` directroy
-
 ```sh
 $ npm install
 $ npm run serve
 ```
 
-By default this starts on port `9999`
+Put files to be downloaded in `update_files` directroy
+
+By default this starts serving on port `9999`
