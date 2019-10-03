@@ -1,0 +1,14 @@
+{
+  "name": "test-updates-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "browser-sync start --config bsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
