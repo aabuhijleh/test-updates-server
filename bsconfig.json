@@ -1,13 +1,13 @@
 {
-    "ui": {
-      "port": 9998
-    },
-    "server": {
-      "baseDir": "update_files",
-      "directory": true
-    },
-    "port": 9999,
-    "notify": false,
-    "watch": true,
-    "files": "update_files/*.*"
+  "ui": {
+    "port": 9998
+  },
+  "server": {
+    "baseDir": "update_files",
+    "directory": true
+  },
+  "port": 9999,
+  "notify": false,
+  "watch": true,
+  "files": "update_files/*.*"
 }
